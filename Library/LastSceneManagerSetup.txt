@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Examples/Scenes/SlothBlendShapes.unity
+- path: Assets/Examples/Scenes/Tummy.unity
   isLoaded: 1
   isActive: 1

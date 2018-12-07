@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C1AE3131-D475-19AC-C11E-65CE8B6ED7BC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tummy/Scripts/Tummy.cs">
+    <Files>
+      <File FileName="Assets/Remote/Scripts/BlendShapesController.cs" Line="191" Column="24" />
+      <File FileName="Assets/Tummy/Scripts/Tummy.cs" Line="36" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tummy PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
